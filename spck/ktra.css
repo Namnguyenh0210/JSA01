@@ -1,0 +1,244 @@
+.navbar {
+	display: flex;
+	justify-content: space-around;
+	border: 2px solid white;
+	background-color: rgba(245, 245, 245, 0.035);
+	color: black;
+	position: relative;
+	font-size: 20px;
+}
+
+.navbar2 {
+	display: flex;
+	justify-content: space-around;
+	margin-left: 800px;
+	padding-right: 10px;
+	margin-right: 50px;
+	width: 100%;
+}
+
+.navbar img {
+	margin-right: 400px;
+	position: absolute;
+	top: -35px;
+	left: 50px;
+	width: 150px;
+	height: 150px;
+	bottom: 40px;
+}
+
+.login {
+	text-decoration: none;
+	font-size: 30px;
+	margin-top: 10px;
+	display: inline-block;
+	padding: 10px 15px;
+	background-color: orange;
+	border-radius: 30px;
+	border: 2px solid white;
+	color: red;
+}
+
+.gioi {
+	text-decoration: none;
+	font-size: 30px;
+	margin-top: 18px;
+	padding-top: 7px;
+	font-weight: 1000;
+	color: black;
+}
+
+.lienhe {
+	text-decoration: none;
+	font-size: 30px;
+	margin-top: 18px;
+	padding-top: 7px;
+	font-weight: 1000;
+	color: black;
+}
+
+.navbar2 a:hover{
+	color: red;
+	border: 0px solid wheat;
+}
+
+.navbar h2:hover {
+	color: red;
+	border: 0px solid wheat;
+}
+
+.navbar svg {
+	height: 19px;
+	width: 19px;
+
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.anhmau {
+
+
+	height: 1000px;
+	width: 100%;
+}
+
+.fashion {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 20px;
+}
+
+.fashion img {
+	width: 820px;
+	height: 900px;
+
+}
+
+.new {
+	color: black;
+}
+
+.full {
+	/* text-align: right; */
+	margin-top: 30px;
+	display: flex;
+	justify-content: space-around;
+	margin-left: 1250px;
+}
+.fullclothes{
+	text-decoration: none;
+	font-size: 30px;
+	margin-top: 13px;
+	padding-top: 7px;
+	color: black;
+	
+}
+
+.full p:hover {
+	color: brown;
+	border-bottom: 2px solid red;
+}
+.full a:hover{
+	color: brown;
+	border-bottom: 2px solid red;
+}
+.newc {
+	margin-left: 1400px;
+	font-size: 40px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	background-color: white;
+}
+
+.content {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.full p {
+	display: inline-block;
+	font-size: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 20px;
+}
+
+
+
+.clothes2 {
+	margin-top: 50px;
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+	gap: 70px;
+}
+
+.clothes2 img {
+	width: 100%;
+	height: 500px;
+}
+
+.clothes2 p {
+	font-size: 26px;
+}
+
+.caditem {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-top: 0;
+}
+
+
+.even {
+	text-align: center;
+	color: red;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 50px;
+	margin-top: 0px;
+}
+
+.le {
+	display: flex;
+	margin-top: 200px;
+	margin-left: 70px;
+	margin-right: 70px;
+
+}
+
+.le img {
+	height: 600px;
+	height: 600px;
+}
+
+.le p {
+	font-size: 30px;
+	text-align: justify;
+}
+
+
+.Footer {
+	display: flex;
+	justify-content: space-between;
+	padding-left: 180px;
+	padding-right: 180px;
+	font-size: 20px;
+	background-color: rgba(128, 128, 128, 0.154);
+	margin-top: 25px;
+}
+
+.Footer h3 {
+	font-size: 30px;
+}
+
+.Footer h4 {
+	font-size: 25px;
+}
+
+.sukien {
+	margin-right: 50px;
+}
+
+.line {
+	margin: auto;
+	height: 1px;
+	width: 70%;
+	background-color: black;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.footer2 p:hover {
+	color: purple;
+}
+.Footer svg{
+	font-size: 28px;
+	margin-bottom: 30px;
+}
+
+
+.Footer p{
+	font-size: 22px;
+}
