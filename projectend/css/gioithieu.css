@@ -1,0 +1,320 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto Slab", sans-serif;
+}
+
+.gioithieu h1 {
+    text-align: center;
+    margin-top: 0;
+    padding-top: 30px;
+    margin-left: 10px;
+}
+
+.gioithieu {
+    background-color: #c51b1b;
+    color: white;
+}
+
+.gioithieu1 {
+    display: flex;
+
+}
+
+.gioithieu1 a {
+    text-decoration: none;
+    color: white;
+    margin-left: 600px;
+    font-size: 20px;
+}
+
+.gioithieu1 h2 {
+    font-size: 20px;
+    margin-top: -1px;
+    margin-left: 10px;
+    padding-bottom: 30px;
+}
+
+.imggt img {
+    margin-top: 60px;
+    margin-left: 100px;
+    height: 500px;
+    width: 700px;
+}
+
+.imggt {
+    display: flex;
+    margin-right: 70px;
+    margin-bottom: 40px;
+}
+
+.imggt p {
+    text-align: center;
+    padding-left: 50px;
+    font-size: larger;
+    padding-right: 50px;
+}
+
+.imggt h1 {
+    margin-top: 170px;
+
+    font-size: 35px;
+    text-align: center;
+}
+
+.imggt button {
+    margin-left: 230px;
+    height: 50px;
+    width: 149px;
+    background-color: #e04141;
+    border-radius: 10px;
+    color: white;
+
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+.noibat {
+    display: flex;
+    margin-left: 120px;
+    margin-right: 140px;
+    font-size: larger;
+    margin-bottom: 150px;
+   margin-top: 100px;
+}
+
+.noibat h1 {
+    text-align: center;
+    font-size: 60px;
+
+}
+
+.why {
+    text-align: center;
+    background-color: #fcb900;
+    ;
+    color: white;
+
+}
+
+.why p {
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: larger;
+    font-weight: 100;
+    padding-bottom: 40px;
+}
+
+.why iframe {
+    height: 500px;
+    width: 1000px;
+    padding-bottom: 100px;
+}
+
+.why h1 {
+    padding-top: 60px;
+
+}
+
+.image img {
+    height: 300px;
+    width: 100%;
+
+
+}
+
+.bigimg p {
+    text-align: center;
+    margin-top: 20px;
+    font-size: larger;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.bigimg {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.image {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 30px;
+    padding-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 70px;
+}
+
+.tuvan {
+    background-color: #fcb900e5;
+    color: white;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.tuvan a {
+    color: gray;
+
+    padding-bottom: -10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.tuvan h1 {
+    font-size: 50px;
+    padding-top: 40px;
+}
+
+.tuvan p {
+    font-size: 18px;
+
+}
+
+.tuvan button {
+    height: 100px;
+    width: 50px;
+    height: 60px;
+    width: 140px;
+    border-radius: 20px;
+    background-color: white;
+    margin-bottom: 40px;
+}
+
+.saleimg img {
+    height: 550px;
+    width: 550px;
+    margin-right: 100px;
+    padding-top: 10px;
+}
+
+.sale {
+    display: flex;
+    margin-left: 100px;
+}
+
+.sale1 h2 {
+    margin-top: 100px;
+    font-size: 35px;
+    color: #c51b1b;
+    margin-bottom: -50px;
+}
+
+.sale1 h1 {
+    font-size: 70px;
+    color: rgb(73, 72, 72);
+}
+
+.iconsale {
+    height: 20px;
+    width: 20px;
+
+}
+
+.sale1 button {
+    height: 100px;
+    width: 50px;
+    height: 60px;
+    width: 160px;
+    border-radius: 50px;
+    border: 0.1px solid white;
+    background-color: #e04141;
+    margin-bottom: 40px;
+    margin-top: -60px;
+}
+
+.sale1 a {
+    text-decoration: none;
+    font-size: larger;
+}
+
+.sale1 p {
+    color: #c51b1b;
+    font-size: larger;
+    font-weight: 1000;
+
+}
+
+.saleimg button {
+    height: 60px;
+    width: 200px;
+    border-radius: 50px;
+    box-shadow: 4px 1px 0px rgb(255 91 38 / 50%);
+    background-color: #ffffffe8;
+    margin-bottom: 40px;
+    margin-top: -60px;
+}
+
+.iconbut {
+    height: 20px;
+    width: 20px;
+}
+
+footer img {
+    margin-top: 58px;
+}
+
+footer {
+    background-color: #c51b1b;
+    color: white;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    gap: 20px;
+    padding-bottom: 100px;
+    font-family: "Roboto Slab", sans-serif;
+
+}
+
+footer h2 {
+    font-size: 18px;
+    margin-top: 90px;
+}
+
+.footer1 p {
+    padding-right: 160px;
+    font-size: 16px;
+    font-family: "Roboto Slab", sans-serif;
+}
+
+.footer2 {
+    margin-left: -100px;
+    margin-right: 200px;
+    
+}
+.footer2 p,h2{
+    font-size: 14px;
+}
+.footer3 a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    margin-top: 17px;
+}
+
+.footer3 {
+    margin-left: -150px;
+}
+
+.footer4 a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-top: 17px;
+}
+footer a:hover{
+    color: yellow;
+}
+.footer3 p{
+    font-size: 16px;
+    
+} 
+.footer1 img{
+    height: 100px;
+    width: 340px;
+   
+}
